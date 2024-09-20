@@ -9,6 +9,12 @@ public class Cars_blue {
 		
 		
 		
+		
+	}
+
+
+	public void sum(int x, int y){
+		system.out.print(x+y);
 	}
 	
 	

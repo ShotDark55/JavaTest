@@ -11,6 +11,8 @@ public class Cars_blue {
 		
 	}
 	
+	private static final String password = "135123";
+	
 	
 	
 }

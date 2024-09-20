@@ -15,9 +15,12 @@ public class Cars_blue {
 
 	public void sum(int x, int y){
 		System.out.print(x+y);
+		System.out.print(password);
+		
 	}
 	
 	private static final String password = "135123";
+	
 	
 	
 	
